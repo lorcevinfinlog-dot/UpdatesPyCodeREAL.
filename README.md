@@ -34,7 +34,7 @@ PyCode Editor — это альтернатива тяжеловесным IDE (
 
 Если программа вылетает, работает неправильно или вы нашли уязвимость — напишите нам на почту технической поддержки. Мы постараемся исправить это как можно быстрее в следующем патче!
 
-**Техподдержка:** [pycode.support@gmail.com](mailto:pycode.support@gmail.com)
+**Техподдержка:** [pycode.support@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=pycode.support@gmail.com)
 
 ---
 
